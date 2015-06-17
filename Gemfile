@@ -7,4 +7,5 @@ gem 'rails'
 group 'test' do
   gem 'mutant-rspec'
   gem 'rspec-rails'
+  gem 'database_cleaner'
 end
